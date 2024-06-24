@@ -20,8 +20,8 @@ This project was setup using [Vite](https://vitejs.dev/), which allows for rapid
 1. Clone the repository
 
 ```bash
-> git clone https://github.com/daveschumaker/super-simple-chatui.git
-> cd super-simple-chatui
+> git clone https://github.com/longevity-genie/just-chatui.git
+> cd just-chatui
 ```
 
 2. Install dependencies
